@@ -12,6 +12,7 @@
     <body>
 
         <!--navbar-->
+        <!--first nav-part-->
         <div class="container-fuid">
             <nav class="navbar navbar-expand-lg bg-danger-subtle">
                 <div class="container-fluid">
@@ -37,7 +38,7 @@
                         <a class="nav-link" href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i><sup>1</sup></a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#">Total Price</a>
+                        <a class="nav-link" href="#">Total Price : </a>
                       </li>
 
                     </ul>
@@ -48,11 +49,127 @@
                   </div>
                 </div>
               </nav>
+            
+
+              <!--second nav-part-->
+              <nav class="navbar navbar-expand-lg bg-secondary">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Welcome Guest</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Login</a>
+                      </li>
+                </ul>
+              </nav>
+
+              <!--third nav-part-->
+              <div class="bg-light">
+                <h3 class="text-center">WELCOME TO SHOP CHECK</h3>
+                <p class="text-center">
+                    Communication is at the heart of e-commerce and community
+                </p>
+              </div>
+
+              <!--forth part-->
+              <div class="row">
+                <div class="col md-10">
+                    <!--products-->
+                    <div class="row">
+                        <div class="col-md-4 mb-2">
+                            <div class="card">
+                                <img src="images/apple.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="#" class="btn btn-danger">Add to Cart</a>
+                                  <a href="#" class="btn btn-secondary">View More</a>
+                                </div>
+                              </div>
+                        </div>
+
+                        <div class="col-md-4 mb-2">
+                            <div class="card">
+                                <img src="images/apple.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="#" class="btn btn-danger">Add to Cart</a>
+                                  <a href="#" class="btn btn-secondary">View More</a>
+                                </div>
+                              </div>
+                        </div>
+
+                        <div class="col-md-4 mb-2">
+                            <div class="card">
+                                <img src="images/apple.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="#" class="btn btn-danger">Add to Cart</a>
+                                  <a href="#" class="btn btn-secondary">View More</a>
+                                </div>
+                              </div>
+                        </div>
+
+                        <div class="col-md-4 mb-2">
+                            <div class="card">
+                                <img src="images/apple.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="#" class="btn btn-danger">Add to Cart</a>
+                                  <a href="#" class="btn btn-secondary">View More</a>
+                                </div>
+                              </div>
+                        </div>
+
+                       
+
+                        <div class="col-md-4 mb-2">
+                            <div class="card">
+                                <img src="images/apple.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="#" class="btn btn-danger">Add to Cart</a>
+                                  <a href="#" class="btn btn-secondary">View More</a>
+                                </div>
+                              </div>
+                        </div>
+
+                        <div class="col-md-4 mb-2">
+                            <div class="card">
+                                <img src="images/apple.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="#" class="btn btn-danger">Add to Cart</a>
+                                  <a href="#" class="btn btn-secondary">View More</a>
+                                </div>
+                              </div>
+                        </div>
+
+                    </div> 
+                </div>
+               
+
+                <div class="col-md-2 bg-danger-subtle p-0 ">
+                    <!--side-nav-->
+                    <ul class="navbar-nav me-auto text-center">
+                        <li class="nav item bg-secondary">
+                            <a href="#" class="nav link text-light"><h4>Delivery Brands</h4></a>
+                        </li>
+                    </ul>
+                </div>
+              </div>
+
+
 
                 <!--footer-->
-                <!--<div class="bg-danger-subtle p-3 text-center">
-                    <p>All right reserved ©-Designed by Ushani 2023</p>
-                </div>-->
+                <div class="bg-danger-subtle p-3 text-center">
+                    <p>All rights reserved ©-Designed by Ushani 2023</p>
+                </div>
             </div>
                 
             <!--bootstra JS link-->
